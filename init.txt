@@ -1,0 +1,28 @@
+#!/bin/bash
+
+echo "export PATH=$PATH:/usr/lpp/mmfs/bin" >> /root/.bash_profile
+chmod 600 /root/.ssh/id_rsa
+
+echo "127.0.0.1       localhost.localdomain localhost" > /etc/hosts
+echo "10.122.142.146     hw1" >> /etc/hosts
+echo "10.122.142.145     hw2" >> /etc/hosts
+echo "10.90.89.147    hw4" >> /etc/hosts
+
+echo "hw1:quorum:" > /root/nodefile
+echo "hw2::" >> /root/nodefile
+echo "hw4::" >> /root/nodefile
+
+wget -r --no-check-certificate https://student:da1OwYay8Nc48TJL5t_6FyrC9R@198.23.85.70/gpfs/
+
+cd 198.23.85.70/gpfs/
+mv * /root/
+cd /root/
+
+tar -xzvf GPFS_4.1_STD_LSX_QSG.tar.gz
+./gpfs_install-4.1.0-0_x86_64 --silent
+
+cd /usr/lpp/mmfs/4.1/
+
+yum -y install ksh gcc-c++ compat-libstdc++-33 kernel-devel redhat-lsb net-tools libaio
+
+reboot
