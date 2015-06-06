@@ -48,4 +48,4 @@ def worker(workerID, fileFirst, fileLast):
 			currentFile.close()			
 					
 
-worker()
+worker(sys.argv[1], sys.argv[2], sys.argv[3])
