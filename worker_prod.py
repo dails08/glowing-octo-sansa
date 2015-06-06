@@ -40,7 +40,7 @@ def worker(workerID, fileFirst, fileLast):
 							options[thisWord] = splits[2]
 						else:
 							options[thisWord] = options[thisWord] + splits[2]
-					else if found:
+					elif found:
 						#picks the first one for now
 						pusher.send(options.keys()[0])
 						done = True
