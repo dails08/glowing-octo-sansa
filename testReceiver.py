@@ -1,7 +1,7 @@
 import sys
 import zmq
 
-port = "8888"
+port = "5555"
 if len(sys.argv) > 1:
     port =  sys.argv[1]
     int(port)
@@ -15,7 +15,7 @@ context = zmq.Context()
 socket = context.socket(zmq.SUB)
 
 print "Collecting updates from weather server..."
-socket.connect ("tcp://localhost:%s" % port)
+socket.connect ("tcp://10.122.102.45:%s" % port)
 
 if len(sys.argv) > 2:
     socket.connect ("tcp://localhost:%s" % port1)
