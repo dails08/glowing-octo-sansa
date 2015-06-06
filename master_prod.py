@@ -3,8 +3,8 @@ import time
 import sys
 
 def master():
-	word = argv[1]
-	numWord = argv[2]
+	word = sys.argv[1]
+	numWord = sys.argv[2]
 	context = zmq.Context()
 		
 	publisher = context.socket(zmq.PUB)
