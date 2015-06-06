@@ -5,7 +5,7 @@ port1 = "5560"
 
 # Socket to talk to server
 context = zmq.Context()
-receiver = context.socket(zmq.SUB)
+subscriber = context.socket(zmq.SUB)
 
 subscriber.connect ("tcp://10.122.102.45:%s" % port1)
 subscriber.setsockopt(zmq.SUBSCRIBE, '')
