@@ -8,10 +8,10 @@ def master():
 	context = zmq.Context()
 		
 	publisher = context.socket(zmq.PUB)
-	publisher.bind("tcp://*:5555")
+	publisher.bind("tcp://*:5560")
 	
 	receiver = context.socket(zmq.PULL)
-	receiver.bind("tcp://*:5556")
+	receiver.bind("tcp://*:5561")
 	
 	for i in range(int(numWord)):
 		print str(i)+": "+word
