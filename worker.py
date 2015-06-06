@@ -6,7 +6,7 @@ def worker():
 	print "Worker "+ str(worker_id) + " started"
 	context = zmq.Context()
 	receiver = context.socket(zmq.SUB)
-	receiver.connect("tcp://localhost:5557")
+	receiver.connect("tcp://10.122.102.45:5557")
 	receiver.setsockopt(zmq.SUBSCRIBE,'')
 	while True:
 		print "Listening..."
