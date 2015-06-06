@@ -4,11 +4,14 @@ import sys
 import time
 
 port1 = sys.argv[1]
-
+port2 = sys.argv[2]
 
 context = zmq.Context()
 publisher = context.socket(zmq.PUB)
 publisher.bind("tcp://*:%s" % port1)
+
+answerer = context.socket(zmq.REP)
+answerer.bind("tcp://*:%s" % port2)
 
 while True:
     topic = random.randrange(9999,10005)
