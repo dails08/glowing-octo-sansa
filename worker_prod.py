@@ -10,6 +10,10 @@ def worker(workerID, fileFirst, fileLast):
 	
 	# Socket to talk to server
 	context = zmq.Context()
+	
+	pusher = context.socket(zmq.REQ)
+	pusher.connect("tcp://10.122.102.45:%s" % port2)
+
 	receiver = context.socket(zmq.SUB)
 	receiver.connect ("tcp://10.122.102.45:%s" % port1)
 	receiver.setsockopt(zmq.SUBSCRIBE, '')
@@ -17,8 +21,6 @@ def worker(workerID, fileFirst, fileLast):
 	
 	
 	
-	pusher = context.socket(zmq.REQ)
-	pusher.connect("tcp://10.122.102.45:%s" % port2)
 	found = False
 	done = False
 	while True:
