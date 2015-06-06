@@ -17,8 +17,8 @@ def worker(workerID, fileFirst, fileLast):
 	
 	
 	
-	pusher = context.socket(zmq.PUSH)
-	pusher.connect("tcp://10.122.102.45:%s" % port2)
+	#pusher = context.socket(zmq.PUSH)
+	#pusher.connect("tcp://10.122.102.45:%s" % port2)
 	found = False
 	done = False
 	while True:
