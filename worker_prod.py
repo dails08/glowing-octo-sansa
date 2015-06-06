@@ -16,6 +16,7 @@ def worker(workerID, fileFirst, fileLast):
 	done = False
 	while True:
 		word = receiver.recv()
+		print "Received order: "+word
 		if word == "EXIT_NOW":
 			print "Worker "+str(workerID)+" exiting"
 			sys.exit()
