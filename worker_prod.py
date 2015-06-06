@@ -15,6 +15,7 @@ def worker(workerID, fileFirst, fileLast):
 	found = False
 	done = False
 	while True:
+		print "Ready to receive"
 		word = receiver.recv()
 		print "Received order: "+word
 		if word == "EXIT_NOW":
