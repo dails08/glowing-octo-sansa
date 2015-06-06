@@ -18,7 +18,8 @@ def master():
 		print str(i)+": "+word
 		publisher.send("READY_FOR_NEXT_WORD")
 		publisher.send(word)
-		word = receiver.recv()
+		#word = receiver.recv()
+		time.sleep(1)
 		print "Received: "+word
 	publisher.send("EXIT_NOW")
 		
