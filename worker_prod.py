@@ -5,19 +5,20 @@ import sys
 
 def worker(workerID, fileFirst, fileLast):
 	print "Worker "+ str(workerID) + " started"
-	
+	port1 = int(sys.argv[4])
+	port2 = int(sys.argv[5])
 	
 	# Socket to talk to server
 	context = zmq.Context()
 	receiver = context.socket(zmq.SUB)
-	receiver.connect("tcp://10.122.102.45:5560")
-	receiver.setsockopt(zmq.SUBSCRIBE,'')
+	receiver.connect ("tcp://10.122.102.45:%s" % port1)
+	receiver.setsockopt(zmq.SUBSCRIBE, '')
 	
 	
 	
 	
 	pusher = context.socket(zmq.PUSH)
-	pusher.connect("tcp://10.122.102.45:5561")
+	pusher.connect("tcp://10.122.102.45:%s" % port2)
 	found = False
 	done = False
 	while True:

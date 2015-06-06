@@ -5,13 +5,14 @@ import sys
 def master():
 	word = sys.argv[1]
 	numWord = sys.argv[2]
-	context = zmq.Context()
-		
+	port1 = int(sys.argv[3])
+	port2 = int(sys.argv[4])
+	context = zmq.Context()	
 	publisher = context.socket(zmq.PUB)
-	publisher.bind("tcp://*:5560")
+	publisher.bind("tcp://*:%s" % port1)
 	
 	receiver = context.socket(zmq.PULL)
-	receiver.bind("tcp://*:5561")
+	receiver.bind("tcp://*:%s" % port2)
 	
 	for i in range(int(numWord)):
 		print str(i)+": "+word
