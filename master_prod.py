@@ -13,7 +13,7 @@ def master():
 	receiver = context.socket(zmq.PULL)
 	receiver.bind("tcp://*:5556")
 	
-	for i in range(numWord):
+	for i in range(int(numWord)):
 		print str(i)+": "+word
 		publisher.send("READY_FOR_NEXT_WORD")
 		publisher.send(word)
