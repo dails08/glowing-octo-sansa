@@ -18,6 +18,7 @@ def master():
 		publisher.send("READY_FOR_NEXT_WORD")
 		publisher.send(word)
 		word = receiver.recv()
+		print "Received: "+word
 	publisher.send("EXIT_NOW")
 		
 		
