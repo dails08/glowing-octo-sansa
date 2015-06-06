@@ -25,7 +25,7 @@ def worker(workerID, fileFirst, fileLast):
 		print "Ready to receive"
 		word = receiver.recv()
 		print "Received order: "+word
-		pusher.send("Worker #"+str(workerID)+" IRO "+ word
+		pusher.send("Worker #"+str(workerID)+" IRO "+ word)
 		pusher.recv()
 		print "Confirmed receipt"
 		#if word == "EXIT_NOW":
