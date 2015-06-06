@@ -3,7 +3,7 @@ import random
 import sys
 import time
 
-port1 = "5560"
+port1 = sys.argv[1]
 
 
 context = zmq.Context()
