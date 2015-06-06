@@ -15,6 +15,7 @@ def master():
 	
 	for i in range(numWord):
 		print str(i)+": "+word
+		publisher.send("READY_FOR_NEXT_WORD")
 		publisher.send(word)
 		word = receiver.recv()
 	publisher.send("EXIT_NOW")
