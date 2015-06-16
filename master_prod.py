@@ -11,8 +11,8 @@ def master():
 	publisher = context.socket(zmq.PUB)
 	publisher.bind("tcp://*:%s" % port1)
 	
-	receiver = context.socket(zmq.REP)
-	receiver.bind("tcp://*:%s" % port2)
+	#receiver = context.socket(zmq.REP)
+	#receiver.bind("tcp://*:%s" % port2)
 	
 	for i in range(int(numWord)):
 		print str(i)+": "+word
@@ -20,9 +20,9 @@ def master():
 		publisher.send("READY_FOR_NEXT_WORD")
 		print "Publishing 2"
 		publisher.send(word)
-		print "Published.  Waiting for REQ"
-		word = receiver.recv()
-		receiver.send("Master IRO")
+		#print "Published.  Waiting for REQ"
+		#word = receiver.recv()
+		#receiver.send("Master IRO")
 		time.sleep(1)
 		print "Received: "+word
 	publisher.send("EXIT_NOW")
