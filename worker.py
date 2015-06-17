@@ -1,5 +1,6 @@
 import zmq
 import random
+import time
 
 def worker():
 	worker_id = random.randrange(1,1000)
@@ -16,5 +17,7 @@ def worker():
 		print "Listening..."
 		msg = receiver.recv()
 		print "Worker #"+str(worker_id)+" received message:\n"+msg
+		time.sleep(1)
+		pusher.send("Got it!")
 
 worker()

@@ -11,6 +11,9 @@ def master():
 	for i in range(1000):
 		print "Sending message "+str(i)
 		publisher.send("This is message "+ str(i))
+		print "Waiting for response..."
+		response = puller.recv()
+		print "Response received"
 		time.sleep(1)
 		
 master()
