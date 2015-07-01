@@ -37,12 +37,17 @@ Azure Table Storage - other
 Exercise 2
 
 1. Amazon Dynamo, 
+2.
+	N - The number of copies of data to be replicated
+	W - The number of votes necessary to confirm a write has effectively completed
+	R - The number of votes necessary to confirm the data read is the correct version
+	Q - The number of partitions/hash buckets
 
-N - The number of copies of data to be replicated
-W - The number of votes necessary to confirm a write has effectively completed
-R - The number of votes necessary to confirm the data read is the correct version
-Q - The number of partitions/hash buckets
-
-N is typically an odd integer to defeat ties in voting
-To achieve a "quorum-like" system, R + W > N, meaning a majority of votes is required for acceptance rather than a plurality.
-
+3. N is typically an odd integer to defeat ties in voting
+4. To achieve a "quorum-like" system, R + W > N, meaning a majority of votes is required for acceptance rather than a plurality.
+5.
+	i. 1
+	ii. No.  If R + W > N you'll always get the latest version because the committed writes will always outvote the noncommitted writes
+	iv. R=2 W=1 is consistent much sooner than the reverse.  This is because with just 1 vote on read with R=1 the chance for a stale read has no check or balance.  It's much more reliable to consider a write complete sooner and be more cautious on read then the opposite.
+	v. No.  The R=2 curve rises much faster than the W=2 curve.
+	vi. 
