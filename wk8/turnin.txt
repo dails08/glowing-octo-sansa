@@ -1,0 +1,48 @@
+Exercise 1
+
+Riak - key/value
+Elasticsearch - document
+Hibari - key/value
+Cassandra - Column family
+Voldemort - key/value
+Aerospike - key/value
+Couchbase - document
+HBase - other
+Cloudant - document
+Accumulo - key/value
+LevelDB - key/value
+Amazon SimpleDB - other
+Hypertable - other
+FlockDB - graph
+Apache CouchDB - document
+Ininite Graph (by Objectivity) - graph
+RethinkDB - document
+DynamoDB - document and key/value
+MongoDB - document
+MemcacheDB - key/value
+MarkLogic Server - document
+Neo4J - graph
+Titan - graph
+RocksDB - key/value
+Scalaris - key/value
+FoundationDB - key/value
+BerkeleyDB - key/value
+RavenDB - document
+Graphbase - graph
+Redis - key/value
+GenieDB - ??
+Datomic - other
+Azure Table Storage - other
+
+Exercise 2
+
+1. Amazon Dynamo, 
+
+N - The number of copies of data to be replicated
+W - The number of votes necessary to confirm a write has effectively completed
+R - The number of votes necessary to confirm the data read is the correct version
+Q - The number of partitions/hash buckets
+
+N is typically an odd integer to defeat ties in voting
+To achieve a "quorum-like" system, R + W > N, meaning a majority of votes is required for acceptance rather than a plurality.
+
