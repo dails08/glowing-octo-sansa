@@ -36,7 +36,7 @@ Azure Table Storage - other
 
 Exercise 2
 
-1. Amazon Dynamo, 
+1. Amazon Dynamo, Cassandra, Riak
 2.
 	N - The number of copies of data to be replicated
 	W - The number of votes necessary to confirm a write has effectively completed
@@ -50,4 +50,9 @@ Exercise 2
 	ii. No.  If R + W > N you'll always get the latest version because the committed writes will always outvote the noncommitted writes
 	iv. R=2 W=1 is consistent much sooner than the reverse.  This is because with just 1 vote on read with R=1 the chance for a stale read has no check or balance.  It's much more reliable to consider a write complete sooner and be more cautious on read then the opposite.
 	v. No.  The R=2 curve rises much faster than the W=2 curve.
-	vi. 
+	vi. As you would expect, doubling the number of required writes or reads doubles the median latency of that action.
+	vii. When R=2 the curve reaches consistency much faster, presumably because writes simply take longer than reads so waiting for more write is a bigger performance hit than waiting for more reads.
+	viii. W=2 favors consistency since you're more likely to find the most recent data but you have to wait longer.  R=2 is just the opposite, favoring availability since you don't have to wait as long for data to write.
+	ix. Neither favors either and really it doesn't seem like a quorum system anymore to me.  This is just writing or reading from multiple sources, every available source.
+	x. You'd want to minimize the number of the heavy operation, so for a write-heavy setup you'd want W=1 and for a read-heavy system you'd want R=1.  For an even system I suppose it would make sense for R=W.
+	
