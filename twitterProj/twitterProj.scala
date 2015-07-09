@@ -34,26 +34,16 @@ object Twitter {
     println("Type of sortedCounts: " + sortedCounts.getClass)
     //println("Type of sortedCounts[T]: " + sortedCounts[T])
     //sortedCounts.foreach(rdd => println("\nTop "+numTopics+" tags:\n" + rdd.take(numTopics.toInt).mkString("\n")))
-    val popTopics = sortedCounts.foreach(rdd => rdd.take(numTopics.toInt))
-    println("Type of popTopics: " + popTopics.getClass)
-
-    //val popTopics = sortedCounts.take(numTopics.toInt)
-
-    //popTopics.foreach(tag => println(tag))
-
-    //popTopics.foreach(tag => println(tag))
-
-    //authorTagLists = stream.map(tweet => (tweet.getUser().getName(), tweet.getText().split(" ").filter(word => word.startsWith("#"))
-
-    /*
-    val popAuthors = stream.map(tweet => 
-                tweet.getText().split(" ")
+    sortedCounts.foreach(rdd => {
+        val pops = rdd.take(numTopics.toInt)
+        //authorTagLists = stream.map(tweet => (tweet.getUser().getName(), tweet.getText().split(" ").filter(word => word.startsWith("#"))
+        val popAuthors = stream.map(tweet => 
+                tweet.getText().split(" "))
                .filter(word => word.startsWith("#"))
-               .intersection(popTopics)
-               .flatmap(tag => (tweet.getUser().getName(), tag)))
-
-    popAuthors.foreach(tup => print(tup))
-    */
+               //.intersection(pops)
+               .map(tag => (tag, tweet.getUser().getName()))
+               .foreach(tup => print(tup))
+    })
 
 
     ssc.start()

@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mUpdating {file:/root/twitterProj/}twitterproj...[0m
+[0m[[0minfo[0m] [0mUpdating {file:/root/git/glowing-octo-sansa/twitterProj/}twitterproj...[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: default#twitterproj_2.10;1.0[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -7,7 +7,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#twitterproj_2.10;1.0 [compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#twitterproj_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.10.4 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@55d31815[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2cf4e8d0[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.10.4 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m	[2.10.4] org.scala-lang#scala-library;2.10.4[0m
@@ -7509,19 +7509,19 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] commons-io#commons-io;2.4!commons-io.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 2275ms :: artifacts dl 59ms[0m
-[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 compile produced in /root/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-compile.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 runtime produced in /root/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-runtime.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 test produced in /root/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-test.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 provided produced in /root/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-provided.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 optional produced in /root/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-optional.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 compile-internal produced in /root/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-compile-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 runtime-internal produced in /root/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-runtime-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 test-internal produced in /root/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-test-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 plugin produced in /root/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-plugin.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 sources produced in /root/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-sources.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 docs produced in /root/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-docs.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 pom produced in /root/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-pom.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 scala-tool produced in /root/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (2275ms resolve - 59ms download)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 2401ms :: artifacts dl 56ms[0m
+[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 compile produced in /root/git/glowing-octo-sansa/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 runtime produced in /root/git/glowing-octo-sansa/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 test produced in /root/git/glowing-octo-sansa/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 provided produced in /root/git/glowing-octo-sansa/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 optional produced in /root/git/glowing-octo-sansa/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 compile-internal produced in /root/git/glowing-octo-sansa/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 runtime-internal produced in /root/git/glowing-octo-sansa/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 test-internal produced in /root/git/glowing-octo-sansa/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 plugin produced in /root/git/glowing-octo-sansa/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 sources produced in /root/git/glowing-octo-sansa/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 docs produced in /root/git/glowing-octo-sansa/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 pom produced in /root/git/glowing-octo-sansa/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#twitterproj_2.10;1.0 scala-tool produced in /root/git/glowing-octo-sansa/twitterProj/target/resolution-cache/reports/default-twitterproj_2.10-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (2401ms resolve - 56ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
