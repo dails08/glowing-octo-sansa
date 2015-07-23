@@ -22,6 +22,7 @@
 [0m[[33mwarn[0m] [0mMerging 'org/apache/spark/unused/UnusedStubClass.class' with strategy 'first'[0m
 [0m[[33mwarn[0m] [0mStrategy 'discard' was applied to 13 files[0m
 [0m[[33mwarn[0m] [0mStrategy 'first' was applied to a file[0m
+[0m[[0minfo[0m] [0mSHA-1: 73dc0e7a19a447088d1a1ee3e0c8350105876fb5[0m
 [0m[[0minfo[0m] [0mPackaging /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/twitterProj-assembly-1.0.jar ...[0m
 [0m[[0mdebug[0m] [0mInput file mappings:[0m
 [0m[[0mdebug[0m] [0m	library.properties[0m
@@ -40,8 +41,16 @@
 [0m[[0mdebug[0m] [0m	  /root/git/glowing-octo-sansa/twitterProj/target/streams/$global/assemblyOption/$global/streams/assembly/bad42317d24cc0b1e54bdc3b4e46e17f27e99b79_dir/org/apache/spark/examples/streaming/Twitter$$anonfun$6.class[0m
 [0m[[0mdebug[0m] [0m	org/apache/spark/examples/streaming/Twitter$$anonfun$7.class[0m
 [0m[[0mdebug[0m] [0m	  /root/git/glowing-octo-sansa/twitterProj/target/streams/$global/assemblyOption/$global/streams/assembly/bad42317d24cc0b1e54bdc3b4e46e17f27e99b79_dir/org/apache/spark/examples/streaming/Twitter$$anonfun$7.class[0m
-[0m[[0mdebug[0m] [0m	org/apache/spark/examples/streaming/Twitter$$anonfun$8.class[0m
-[0m[[0mdebug[0m] [0m	  /root/git/glowing-octo-sansa/twitterProj/target/streams/$global/assemblyOption/$global/streams/assembly/bad42317d24cc0b1e54bdc3b4e46e17f27e99b79_dir/org/apache/spark/examples/streaming/Twitter$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/examples/streaming/Twitter$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$2.class[0m
+[0m[[0mdebug[0m] [0m	  /root/git/glowing-octo-sansa/twitterProj/target/streams/$global/assemblyOption/$global/streams/assembly/bad42317d24cc0b1e54bdc3b4e46e17f27e99b79_dir/org/apache/spark/examples/streaming/Twitter$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$2.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/examples/streaming/Twitter$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$3.class[0m
+[0m[[0mdebug[0m] [0m	  /root/git/glowing-octo-sansa/twitterProj/target/streams/$global/assemblyOption/$global/streams/assembly/bad42317d24cc0b1e54bdc3b4e46e17f27e99b79_dir/org/apache/spark/examples/streaming/Twitter$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$3.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/examples/streaming/Twitter$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$4.class[0m
+[0m[[0mdebug[0m] [0m	  /root/git/glowing-octo-sansa/twitterProj/target/streams/$global/assemblyOption/$global/streams/assembly/bad42317d24cc0b1e54bdc3b4e46e17f27e99b79_dir/org/apache/spark/examples/streaming/Twitter$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$4.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/examples/streaming/Twitter$$anonfun$main$1$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	  /root/git/glowing-octo-sansa/twitterProj/target/streams/$global/assemblyOption/$global/streams/assembly/bad42317d24cc0b1e54bdc3b4e46e17f27e99b79_dir/org/apache/spark/examples/streaming/Twitter$$anonfun$main$1$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/examples/streaming/Twitter$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /root/git/glowing-octo-sansa/twitterProj/target/streams/$global/assemblyOption/$global/streams/assembly/bad42317d24cc0b1e54bdc3b4e46e17f27e99b79_dir/org/apache/spark/examples/streaming/Twitter$$anonfun$main$1.class[0m
 [0m[[0mdebug[0m] [0m	org/apache/spark/examples/streaming/Twitter$.class[0m
 [0m[[0mdebug[0m] [0m	  /root/git/glowing-octo-sansa/twitterProj/target/streams/$global/assemblyOption/$global/streams/assembly/bad42317d24cc0b1e54bdc3b4e46e17f27e99b79_dir/org/apache/spark/examples/streaming/Twitter$.class[0m
 [0m[[0mdebug[0m] [0m	org/apache/spark/examples/streaming/Twitter.class[0m
