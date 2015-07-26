@@ -1,0 +1,19 @@
+mkdir -m 777 /data
+mkfs.ext4 /dev/xvdc
+echo "/dev/xvdc /data                   ext4    defaults,noatime        0 0" >> /etc/fstab
+
+apt-get install -y default-jre default-jdk
+apt-get install -y nmon
+
+cd /usr/local
+wget http://apache.claz.org/hadoop/core/hadoop-1.2.1/hadoop-1.2.1.tar.gz
+tar xzf hadoop-1.2.1.tar.gz
+mv hadoop-1.2.1 hadoop
+
+adduser hadoop
+chown -R hadoop.hadoop /data
+chown -R hadoop.hadoop /usr/local/hadoop
+cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys 
+mv ~hadoop/.ssh{,-old}
+cp -a ~/.ssh ~hadoop/.ssh
+chown -R hadoop ~hadoop/.ssh
