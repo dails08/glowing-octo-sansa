@@ -5,13 +5,20 @@ import org.apache.spark.SparkContext._
 import org.apache.spark.streaming.twitter._
 import org.apache.spark.SparkConf
 import org.apache.spark.streaming.StreamingContext._
+import scala.io.Source
 
 object Twitter {
   def main(args: Array[String]) {
-    System.setProperty("twitter4j.oauth.consumerKey", "QR4co8GaZu0AmFRgZ7vq7LotG")
-    System.setProperty("twitter4j.oauth.consumerSecret", "WcsVKcyVP2b9BlufmYRJks8pFiWZorZZtWG9eDe42zp7eu7OWt")
-    System.setProperty("twitter4j.oauth.accessToken", "219923247-EwJrkzHkP9CZ3udl3lpzIMSOAMGYy133WmPl2OPz")
-    System.setProperty("twitter4j.oauth.accessTokenSecret", "mV6KOgZAISmXuiO46y21NXJ4NtxHzk6oSmzXEpGLsHLp3")
+    
+    val creds = Source.fromFile("creds.txt").getLines.toArray
+
+    System.setProperty("twitter4j.oauth.consumerKey", creds(0))
+    System.setProperty("twitter4j.oauth.consumerSecret", creds(1))
+    System.setProperty("twitter4j.oauth.accessToken", creds(2))
+    System.setProperty("twitter4j.oauth.accessTokenSecret", creds(3))
+
+
+    
 
     val totalSampleTime_minutes = args(0)
     val subSampleTime_minutes = args(1)
@@ -22,67 +29,46 @@ object Twitter {
     val ssc = new StreamingContext(sparkConf, Seconds(5))
     val stream = TwitterUtils.createStream(ssc, None)
 
-    println("Type of stream: " + stream.getClass)
-    val tweets = stream.map(tweet => tweet.getText())
-    println("Type of tweets: " + tweets.getClass)
-    val sortedTags = stream.flatMap(tweet => 
-                      tweet.getText().split(" ")
-                      .filter(word => word.startsWith("#"))
-                      .map(tag => (tag, 1)))
-                      .reduceByKey((a, b) => a + b)
-                      .map(count => (count._2, count._1))
-                      .transform(rdd => rdd.sortByKey(false))
-                    //  .take(numTopics.toInt)
-                    //  .transform(tup => tup._2)
+    val tweets = stream.map(tweet => {
+        val hashtags = tweet.getText().split(" ").filter(word => word.startsWith("#"))
+        val username = tweet.getUser.getScreenName()
+        val mentions = tweet.getText().split(" ").filter(word => word.startsWith("@"))
+        (hashtags, username, mentions)})
+        .flatMap(tup => tup._1.map(hashtag => (hashtag, tup._2, tup._3)))
 
-    val popTags = sortedTags.take(numTopics.toInt)     
+    val popTags = tweets.map(tuple => (tuple._1,1))
+        .reduceByKeyAndWindow((a:Int, b:Int) => (a+b), Seconds(subSampleTime_minutes.toInt*60))
+        .map(tuple => (tuple._2, tuple._1))
+        .transform(tuple => tuple.sortByKey(false))
 
-//    val tags = stream.flatMap(tweet => tweet.getText().split(" ")).filter(word => word.startsWith("#"))
-//    println("Type of tags: " + tags.getClass)
+    val popUsers = tweets.map(tuple => (tuple._2,1))
+        .reduceByKeyAndWindow((a:Int, b:Int) => (a+b), Seconds(subSampleTime_minutes.toInt*60))
+        .map(tuple => (tuple._2, tuple._1))
+        .transform(tuple => tuple.sortByKey(false))
+   
+    val popMentions = tweets.flatMap(tuple => tuple._3)
+        .map(mention => (mention,1))
+        .reduceByKeyAndWindow((a:Int, b:Int) => (a+b), Seconds(subSampleTime_minutes.toInt*60))
+        .map(tuple => (tuple._2, tuple._1))
+        .transform(tuple => tuple.sortByKey(false))
 
-//    val sortedCounts = tags.map(tag => (tag, 1))
-//                     .reduceByKey((a, b) => a + b)
-//                     .map(count => (count._2, count._1))
-//                     .transform(rdd => rdd.sortByKey(false))
+    popTags.foreachRDD(rdd => rdd.take(numTopics.toInt).foreach(tuple => println(tuple._2 + ": " + tuple._1))) 
+    popUsers.foreachRDD(rdd => rdd.take(numTopics.toInt).foreach(tuple => println(" "+tuple._2 + ": " + tuple._1))) 
+    popMentions.foreachRDD(rdd => rdd.take(numTopics.toInt).foreach(tuple => println("  "+tuple._2 + ": " + tuple._1))) 
 
-//    println("Type of sortedCounts: " + sortedCounts.getClass)
-    
-    
-    popTags.foreach(tag => {
-        println("Starting inside popTags")
-        println("Length of popTags: "+popTags.count)
-        println("Length of rdd: "+rdd.count)
-        println("Length of popTags: " + popTags.length)
-        println("For tag: " + tag)
-        stream.filter(tweet => tweet.getText().split(" ").startsWith("#"))
-              .foreach(tweet => println("\t" + tweet.getUser().getName()))
-        })
 
-//            stream.map(tweet => 
-//            tweet.getText().split(" ")
-//            .filter(word => word.startsWith("#"))
-//            .filter(word => pops.contains(word))
-//            .map(tag => {
-//                          println("Keeping "+tweet.getUser().getName() + " and " + tag)
-//                          (tweet.getUser().getName(), tag)
-//                        }))
-                       
-            //.filter(tup => pops.contains(tup._2))
-//            .foreach(tup => println((tweet.getUser().getName(), tup))))
-        //val innerTags = 
-        //stream.map(tweet => {
-        //        //var userName = tweet.getUser().getName()
-        //        tweet.getText().split(" ")
-        //        .filter(word => word.startsWith("#"))
-        //        .filter(word => pops.contains(word))
-        //        .foreach(word => println(word, tweet.getUser().getName()))
-        //        })
-        //        //.intersection(pops)
-        //println("Length of innerTags: "+innerTags.count)               
-        //val authorTagTuples = innerTags.map(tag => (tag, tweet.getUser().getName()))
-        //println("Length of authorTagTuples: "+authorTagTuples.count)       
-        //authorTagTuples.foreach(tup => print(tup))
-//    })
+    val related = tweets.foreachRDD(rdd => rdd.map(tup => (tup._1, (1, Set(tup._2), tup._3.toSet)))
+        .foldByKey(0, Set(), Set())((acc, tup) => (acc._1 + tup._1, acc._2 ++ tup._2, acc._3 ++ tup._3))
+        .sortBy(recTup => recTup._2._1, false)
+        .take(numTopics.toInt)
+        .foreach(recTup => {
+            println("Related stuff:")
+            println("===================")
+            println(recTup._1+": "+recTup._2._1+
+            "\n  Authors: "+recTup._2._2.mkString(",")+
+            "\n  Mentions: "+recTup._2._3.mkString(","))
+            println("===================")})
+        )
 
 
     ssc.start()

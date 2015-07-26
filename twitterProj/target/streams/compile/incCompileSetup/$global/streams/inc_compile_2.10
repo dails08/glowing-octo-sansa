@@ -19,19 +19,36 @@ name hashing:
 1 items
 0 -> true
 products:
-14 items
+31 items
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$1.class
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$10.class
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$11.class
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$12.class
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$13.class
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$14.class
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$15.class
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$16.class
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$17.class
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$18$$anonfun$19.class
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$18$$anonfun$20.class
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$18$$anonfun$21.class
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$18$$anonfun$apply$5.class
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$18.class
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$2.class
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$3.class
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$4$$anonfun$5.class
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$4$$anonfun$6.class
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$4.class
-/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$5.class
-/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$6.class
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$7$$anonfun$apply$1.class
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$7.class
-/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$2.class
-/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$3.class
-/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$4.class
-/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$main$1$$anonfun$apply$1.class
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$8.class
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$9.class
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$main$1$$anonfun$apply$2.class
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$main$1.class
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$main$2$$anonfun$apply$3.class
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$main$2.class
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$main$3$$anonfun$apply$4.class
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$main$3.class
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$.class
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> /root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter.class
 binary dependencies:
@@ -59,33 +76,55 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-14 items
+31 items
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$1
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$10
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$11
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$12
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$13
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$14
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$15
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$16
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$17
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$18
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$18$$anonfun$19
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$18$$anonfun$20
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$18$$anonfun$21
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$18$$anonfun$apply$5
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$2
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$3
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$4
-/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$5
-/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$6
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$4$$anonfun$5
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$4$$anonfun$6
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$7
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$7$$anonfun$apply$1
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$8
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$9
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$main$1
-/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$main$1$$anonfun$apply$1
-/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$2
-/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$3
-/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$4
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$main$1$$anonfun$apply$2
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$main$2
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$main$2$$anonfun$apply$3
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$main$3
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org.apache.spark.examples.streaming.Twitter$$anonfun$main$3$$anonfun$apply$4
 used names:
-82 items
+116 items
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> *
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> +
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> ++
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> <init>
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> AnyRef
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> Array
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> ClassTag
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> Codec
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> Int
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> None
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> Ordering
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> Predef
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> Seconds
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> Set
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> Source
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> SparkConf
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> SparkContext
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> StreamingContext
@@ -96,46 +135,64 @@ used names:
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> Unit
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> _1
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> _2
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> _3
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> a
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> acc
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> apache
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> apply
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> args
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> augmentString
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> awaitTermination
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> b
-/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> contains
-/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> count
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> canBuildFrom
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> createStream
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> creds
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> examples
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> fallbackSystemCodec
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> filter
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> flatMap
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> foldByKey
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> foreach
-/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> getClass
-/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> getName
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> foreachRDD
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> fromFile
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> getLines
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> getScreenName
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> getText
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> getUser
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> hashtag
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> hashtags
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> io
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> java
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> lang
-/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> length
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> map
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> materializeClassTag
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> math
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> mention
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> mentions
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> mkString
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> numTopics
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> org
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> package
-/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> pops
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> popMentions
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> popTags
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> popUsers
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> println
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> qual$1
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> qual$2
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> qual$3
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> qual$4
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> rdd
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> rddToOrderedRDDFunctions
-/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> reduceByKey
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> rddToPairRDDFunctions
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> recTup
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> reduceByKeyAndWindow
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> refArrayOps
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> scala
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> setAppName
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> setMaster
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> setProperty
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> sortBy
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> sortByKey
-/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> sortedCounts
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> spark
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> sparkConf
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> split
@@ -144,39 +201,67 @@ used names:
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> startsWith
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> stream
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> streaming
-/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> tag
-/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> tags
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> subSampleTime_minutes
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> take
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> toArray
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> toInt
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> toLong
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> toPairDStreamFunctions
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> toSet
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> transform
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> tup
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> tuple
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> tweet
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> tweets
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> twitter
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> username
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> word
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> wrapRefArray
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> x$1
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> x$2
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> x$3
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> x$4
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> x$5
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> x$6
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> x$7
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> x$8
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> x$9
 product stamps:
-14 items
-/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$1.class -> lastModified(1436648964000)
-/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$2.class -> lastModified(1436648964000)
-/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$3.class -> lastModified(1436648964000)
-/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$4.class -> lastModified(1436648964000)
-/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$5.class -> lastModified(1436648964000)
-/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$6.class -> lastModified(1436648964000)
-/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$7.class -> lastModified(1436648964000)
-/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$2.class -> lastModified(1436648964000)
-/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$3.class -> lastModified(1436648964000)
-/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$4.class -> lastModified(1436648964000)
-/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$main$1$$anonfun$apply$1.class -> lastModified(1436648964000)
-/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$main$1.class -> lastModified(1436648964000)
-/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$.class -> lastModified(1436648964000)
-/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter.class -> lastModified(1436648964000)
+31 items
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$1.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$10.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$11.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$12.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$13.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$14.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$15.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$16.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$17.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$18$$anonfun$19.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$18$$anonfun$20.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$18$$anonfun$21.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$18$$anonfun$apply$5.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$18.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$2.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$3.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$4$$anonfun$5.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$4$$anonfun$6.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$4.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$7$$anonfun$apply$1.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$7.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$8.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$9.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$main$1$$anonfun$apply$2.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$main$1.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$main$2$$anonfun$apply$3.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$main$2.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$main$3$$anonfun$apply$4.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$$anonfun$main$3.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter$.class -> lastModified(1437874580000)
+/root/git/glowing-octo-sansa/twitterProj/target/scala-2.10/classes/org/apache/spark/examples/streaming/Twitter.class -> lastModified(1437874580000)
 source stamps:
 1 items
-/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> hash(03218b534398afdde5e2542cc45fe8c3cb951979)
+/root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> hash(f364aea6f4bb8c1943aa1ed5f1b16b23009e8c0f)
 binary stamps:
 6 items
 /root/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.1.0.jar -> lastModified(1409722360000)
@@ -187,24 +272,24 @@ binary stamps:
 /usr/lib/jvm/java-1.7.0-openjdk-1.7.0.79-2.5.5.2.el7_1.x86_64/jre/lib/rt.jar -> lastModified(1435104561000)
 class names:
 6 items
-/root/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.1.0.jar -> org.apache.spark.SparkConf
+/root/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.1.0.jar -> org.apache.spark.rdd.PairRDDFunctions
 /root/.ivy2/cache/org.apache.spark/spark-streaming-twitter_2.10/jars/spark-streaming-twitter_2.10-1.2.0.jar -> org.apache.spark.streaming.twitter.TwitterUtils$
-/root/.ivy2/cache/org.apache.spark/spark-streaming_2.10/jars/spark-streaming_2.10-1.1.0.jar -> org.apache.spark.streaming.StreamingContext
-/root/.ivy2/cache/org.twitter4j/twitter4j-core/jars/twitter4j-core-3.0.3.jar -> twitter4j.User
-/root/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.Array
+/root/.ivy2/cache/org.apache.spark/spark-streaming_2.10/jars/spark-streaming_2.10-1.1.0.jar -> org.apache.spark.streaming.dstream.DStream
+/root/.ivy2/cache/org.twitter4j/twitter4j-core/jars/twitter4j-core-3.0.3.jar -> twitter4j.Status
+/root/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.Tuple2$
 /usr/lib/jvm/java-1.7.0-openjdk-1.7.0.79-2.5.5.2.el7_1.x86_64/jre/lib/rt.jar -> java.lang.Object
 internal apis:
 1 items
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCVaiz7AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLffGD10AAZub3RpZnlzcQB+AAwzwnI3dAAEd2FpdHNxAH4ADPG4Rv10AA0kYXNJbnN0YW5jZU9mc3EAfgAMPvBS3nQABmVxdWFsc3NxAH4ADID2hSZ0AAxhc0luc3RhbmNlT2ZzcQB+AAxEbCXxdAAMc3luY2hyb25pemVkc3EAfgAMEO5N7HQADSRpc0luc3RhbmNlT2ZzcQB+AAymREa/dAAHVHdpdHRlcnNxAH4ADJ4K1HV0AARtYWluc3EAfgAMIbcSonQACW5vdGlmeUFsbHNxAH4ADFDAeux0AAxpc0luc3RhbmNlT2ZzcQB+AAy1hBLTdAACPT1zcQB+AAwq6417dAAFY2xvbmVzcQB+AAwXowHUdAAIdG9TdHJpbmdzcQB+AAwGGpC5dAACIT1zcQB+AAySWPl7dAAIZ2V0Q2xhc3NzcQB+AAzTuaPAdAACbmVzcQB+AAwxzZkJdAACZXFzcQB+AAwSt4QhdAACIyNzcQB+AAwGRgIsdAAIZmluYWxpemVzcQB+AAwi4LmwdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAArb3JnLmFwYWNoZS5zcGFyay5leGFtcGxlcy5zdHJlYW1pbmcuVHdpdHRlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AWQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBgc3EAfgBZAXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AH3VxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBfdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AX3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ae3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGh4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG9bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF9zcQB+AG50AAVBcnJheXEAfgB0dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AG50AAZTdHJpbmdzcQB+AHJzcQB+AHV1cQB+AHgAAAADc3EAfgB6dAAEamF2YXNxAH4AenQABGxhbmdxAH4Af3BzcQB+AFkBdXEAfgA8AAAAAHBzcQB+AFkBdXEAfgCTAAAAAnNxAH4AbnQABk9iamVjdHEAfgCXc3EAfgBudAADQW55cQB+AHRwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAFc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAGW9yZy5hcGFjaGUuc3BhcmsuZXhhbXBsZXNzcQB+AKh0ABBvcmcuYXBhY2hlLnNwYXJrc3EAfgCodAAjb3JnLmFwYWNoZS5zcGFyay5leGFtcGxlcy5zdHJlYW1pbmdzcQB+AKh0AApvcmcuYXBhY2hlc3EAfgCodAADb3Jnc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFOfvNu7HVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEIvcm9vdC9naXQvZ2xvd2luZy1vY3RvLXNhbnNhL3R3aXR0ZXJQcm9qL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQDIYtTQ5iv3eXiVCzEX+jDy5UZeQ==
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCVaiz7AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLffGD10AAZub3RpZnlzcQB+AAwzwnI3dAAEd2FpdHNxAH4ADPG4Rv10AA0kYXNJbnN0YW5jZU9mc3EAfgAMPvBS3nQABmVxdWFsc3NxAH4ADID2hSZ0AAxhc0luc3RhbmNlT2ZzcQB+AAxEbCXxdAAMc3luY2hyb25pemVkc3EAfgAMEO5N7HQADSRpc0luc3RhbmNlT2ZzcQB+AAymREa/dAAHVHdpdHRlcnNxAH4ADJ4K1HV0AARtYWluc3EAfgAMIbcSonQACW5vdGlmeUFsbHNxAH4ADFDAeux0AAxpc0luc3RhbmNlT2ZzcQB+AAy1hBLTdAACPT1zcQB+AAwq6417dAAFY2xvbmVzcQB+AAwXowHUdAAIdG9TdHJpbmdzcQB+AAwGGpC5dAACIT1zcQB+AAySWPl7dAAIZ2V0Q2xhc3NzcQB+AAzTuaPAdAACbmVzcQB+AAwxzZkJdAACZXFzcQB+AAwSt4QhdAACIyNzcQB+AAwGRgIsdAAIZmluYWxpemVzcQB+AAwi4LmwdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAArb3JnLmFwYWNoZS5zcGFyay5leGFtcGxlcy5zdHJlYW1pbmcuVHdpdHRlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AWQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBgc3EAfgBZAXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AH3VxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBfdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AX3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ae3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGh4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG9bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF9zcQB+AG50AAVBcnJheXEAfgB0dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AG50AAZTdHJpbmdzcQB+AHJzcQB+AHV1cQB+AHgAAAADc3EAfgB6dAAEamF2YXNxAH4AenQABGxhbmdxAH4Af3BzcQB+AFkBdXEAfgA8AAAAAHBzcQB+AFkBdXEAfgCTAAAAAnNxAH4AbnQABk9iamVjdHEAfgCXc3EAfgBudAADQW55cQB+AHRwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAFc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAGW9yZy5hcGFjaGUuc3BhcmsuZXhhbXBsZXNzcQB+AKh0ABBvcmcuYXBhY2hlLnNwYXJrc3EAfgCodAAjb3JnLmFwYWNoZS5zcGFyay5leGFtcGxlcy5zdHJlYW1pbmdzcQB+AKh0AApvcmcuYXBhY2hlc3EAfgCodAADb3Jnc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFOyADUhHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEIvcm9vdC9naXQvZ2xvd2luZy1vY3RvLXNhbnNhL3R3aXR0ZXJQcm9qL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTzZK6m9LuMGUOqHtXxsWsjAJ6MDw==
 external apis:
 0 items
 source infos:
 1 items
 /root/git/glowing-octo-sansa/twitterProj/twitterProj.scala -> 
-AAAAAAAAAAEAAAEAAAAlACEgICAgc29ydGVkQ291bnRzLmZvcmVhY2gocmRkID0+IHsBAAAGjAEAAAARAQARICAgICAgICAgICAgICAgICABADovcm9vdC9naXQvZ2xvd2luZy1vY3RvLXNhbnNhL3R3aXR0ZXJQcm9qL3R3aXR0ZXJQcm9qLnNjYWxhAQA6L3Jvb3QvZ2l0L2dsb3dpbmctb2N0by1zYW5zYS90d2l0dGVyUHJvai90d2l0dGVyUHJvai5zY2FsYQA9bWV0aG9kIGZvcmVhY2ggaW4gY2xhc3MgRFN0cmVhbSBpcyBkZXByZWNhdGVkOiB1c2UgZm9yZWFjaFJERAE=
+AAAAAAAAAAA=
 compilations:
-17 items
+22 items
 00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmqvkEt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKy9yb290L3R3aXR0ZXJQcm9qL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
 01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmrSml51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKy9yb290L3R3aXR0ZXJQcm9qL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
 02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmrlnFB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKy9yb290L3R3aXR0ZXJQcm9qL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
@@ -222,3 +307,8 @@ compilations:
 14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTn7uO1t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9yb290L2dpdC9nbG93aW5nLW9jdG8tc2Fuc2EvdHdpdHRlclByb2ovdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
 15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTn7xeG11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9yb290L2dpdC9nbG93aW5nLW9jdG8tc2Fuc2EvdHdpdHRlclByb2ovdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
 16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTn7zbux1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9yb290L2dpdC9nbG93aW5nLW9jdG8tc2Fuc2EvdHdpdHRlclByb2ovdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTsfVwup1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9yb290L2dpdC9nbG93aW5nLW9jdG8tc2Fuc2EvdHdpdHRlclByb2ovdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTsfgrNB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9yb290L2dpdC9nbG93aW5nLW9jdG8tc2Fuc2EvdHdpdHRlclByb2ovdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTsf7EhR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9yb290L2dpdC9nbG93aW5nLW9jdG8tc2Fuc2EvdHdpdHRlclByb2ovdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTsf9OmR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9yb290L2dpdC9nbG93aW5nLW9jdG8tc2Fuc2EvdHdpdHRlclByb2ovdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTsgA1IR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9yb290L2dpdC9nbG93aW5nLW9jdG8tc2Fuc2EvdHdpdHRlclByb2ovdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
