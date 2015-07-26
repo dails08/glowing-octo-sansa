@@ -18,4 +18,7 @@ while True:
     messagedata = random.randrange(1,215) - 80
     print "%d %d" % (topic, messagedata)
     publisher.send("%d %d" % (topic, messagedata))
+    answerer.recv()
+    print "IRO Response"
+    answerer.send("IRO")
     time.sleep(1)
