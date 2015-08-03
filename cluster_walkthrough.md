@@ -1,4 +1,4 @@
-Spin up four (or however many) machines in Softlayer.  Use RHEL 6 64bit, 2 cpus,4096 memory, and a 300 disk (I don't know how to add a SAN disk with the command line yet).  Name one of them "salt" (this makes setting up Salt easier) and the others something recognizeable like "minion1", "cluster1" or whatever.
+Spin up four (or however many) machines in Softlayer.  Use RHEL 6 64bit, 2 cpus, 16GB memory, and a 300 disk (I don't know how to add a SAN disk with the command line yet).  Name one of them "salt" (this makes setting up Salt easier) and the others something recognizeable like "minion1", "cluster1" or whatever.
 
 Edit the /etc/hosts file on the Salt machine to include entries for each of the cluster machines.  Include the ip address, the fqdn, and the alias.  Each line should look something like:
 111.22.33.444 minion1.whatever.com minion1
